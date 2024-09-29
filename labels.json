@@ -1,4 +1,5 @@
-[{"_id":{"$oid":"5ed625c927e9d4002d6f3c8e"},"fullName":"#Cuisine:italian","description":"","asFilter":true,"name":"italian","labelCategory":{"$oid":"5ee52c243a8d7bb90bc566d4"}},
+[
+  {"_id":{"$oid":"5ed625c927e9d4002d6f3c8e"},"fullName":"#Cuisine:italian","description":"","asFilter":true,"name":"italian","labelCategory":{"$oid":"5ee52c243a8d7bb90bc566d4"}},
 {"_id":{"$oid":"66e82016873f0f03db9ca631"},"fullName":"#Cuisine:french","description":"","asFilter":true,"name":"french","labelCategory":{"$oid":"5ee52c243a8d7bb90bc566d4"}},
 {"_id":{"$oid":"66e8203e873f0f03db9ca632"},"fullName":"#Cuisine:persian","description":"","asFilter":true,"name":"persian","labelCategory":{"$oid":"5ee52c243a8d7bb90bc566d4"}},
 {"_id":{"$oid":"66e821d6873f0f03db9ca633"},"fullName":"#Cuisine:armenian","description":"","asFilter":true,"name":"armenian","labelCategory":{"$oid":"5ee52c243a8d7bb90bc566d4"}},
