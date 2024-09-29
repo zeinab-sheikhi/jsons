@@ -1,5 +1,5 @@
-{"_id":
-  {"$oid":"625d2da3d2e50a42d1c8149a"},
+{
+  "_id":{"$oid":"625d2da3d2e50a42d1c8149a"},
   "value":6,
   "CODer":{"$oid":"61562faff26e888462a944e3"},
   "label":{"$oid":"66e82205873f0f03db9ca634"}
