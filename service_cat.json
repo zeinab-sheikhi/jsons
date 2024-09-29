@@ -1,0 +1,23 @@
+{
+    "_id": {
+      "$oid": "5ecd090c65142c002d1864bb"
+    },
+    "name": "Restaurant",
+    "labelCategories": [
+      {
+        "$oid": "66e82016873f0f03db9ca631"
+      },
+      {
+        "$oid": "66e822fa873f0f03db9ca639"
+      },
+      {
+        "$oid": "66e82338873f0f03db9ca63c"
+      },
+      {
+        "$oid": "66e82470873f0f03db9ca648"
+      },
+      {
+        "$oid": "66e83328873f0f03db9ca689"
+      }
+    ]
+  }
