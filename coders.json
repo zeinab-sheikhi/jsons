@@ -1,1 +1,13 @@
-{"_id":{"$oid":"61562faff26e888462a944e3"},"coinBalance":12,"role":"@CODer","servicesContributed":[],"credits":[],"email":"mglest46932@gmail.com","nickname":"mglest","lastLocation":[],"ipGeolocation":{"lat":39.0438,"lon":-77.4874}}
+{
+  "_id":{"$oid":"61562faff26e888462a944e3"},
+  "coinBalance":12,
+  "role":"@CODer",
+  "servicesContributed":[],
+  "credits":[],
+  "email":"mglest46932@gmail.com",
+  "nickname":"mglest",
+  "lastLocation":[],
+  "ipGeolocation":{
+    "lat":39.0438,
+    "lon":-77.4874}
+}
