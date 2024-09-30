@@ -34,4 +34,5 @@
       {"$numberDecimal":"48.84667538484505"}
     ],"type":"Point"
   },
-  "serviceCategory":{"$oid":"5ecd090c65142c002d1864bb"}}
+  "serviceCategory":{"$oid":"5ecd090c65142c002d1864bb"}
+}
