@@ -5,19 +5,7 @@
     "name": "Restaurant",
     "labelCategories": [
       {
-        "$oid": "66e82016873f0f03db9ca631"
-      },
-      {
-        "$oid": "66e822fa873f0f03db9ca639"
-      },
-      {
-        "$oid": "66e82338873f0f03db9ca63c"
-      },
-      {
-        "$oid": "66e82470873f0f03db9ca648"
-      },
-      {
-        "$oid": "66e83328873f0f03db9ca689"
+        "$oid": "5ee52c243a8d7bb90bc566d4"
       }
     ]
   }
