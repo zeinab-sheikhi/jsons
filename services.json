@@ -32,7 +32,8 @@
     "coordinates":[
       {"$numberDecimal":"2.351935617570313"},
       {"$numberDecimal":"48.84667538484505"}
-    ],"type":"Point"
+    ],
+    "type":"Point"
   },
   "serviceCategory":{"$oid":"5ecd090c65142c002d1864bb"}
 }
